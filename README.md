@@ -42,5 +42,5 @@ shcherbakova:~ Iuliia$ find . -type d | grep minesweeper
 //go to minesweeper dir
 shcherbakova:~ Iuliia$ python3 graphical_main.py 10 10 3
 ```
-[!(http://www.fil.univ-lille1.fr/~L2S3API/CoursTP/_images/minesweeper.png)]
+![TITLE](http://www.fil.univ-lille1.fr/~L2S3API/CoursTP/_images/minesweeper.png)
 
