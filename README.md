@@ -38,7 +38,9 @@ Your play x,y,C (C=(R)eveal,(S)et,(U)nset): 2,3,R
 ### GUI version
 
 ```
-shcherbakova@116p5: python3 graphical_main.py 10 10 3
+shcherbakova:~ Iuliia$ find . -type d | grep minesweeper
+//go to minesweeper dir
+shcherbakova:~ Iuliia$ python3 graphical_main.py 10 10 3
 ```
-
+[!(http://www.fil.univ-lille1.fr/~L2S3API/CoursTP/_images/minesweeper.png)]
 
