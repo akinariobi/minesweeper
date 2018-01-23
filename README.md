@@ -4,7 +4,6 @@ A python Minesweeper
 [![Collab](https://img.shields.io/badge/%E2%99%A5-collaborator-ff0068.svg)](https://github.com/MajorPetrov)
 [![Wiki](https://img.shields.io/badge/wiki-minesweeper-c40050.svg)](https://en.wikipedia.org/wiki/Minesweeper_(video_game))
 [![Test](https://img.shields.io/badge/test-code%20climate-890038.svg)](https://codeclimate.com/github/akinariobi/minesweeper)
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/akinariobi/minesweeper.svg?columns=all)](https://waffle.io/akinariobi/minesweeper)
 
 ### Terminal version
 
@@ -68,12 +67,6 @@ You win !
 
 You have to install Tkinter if you want to play GUI version
 
-🍻🍻🍻 homebrew 🍻🍻🍻
-```
-$ brew install homebrew/dupes/tcl-tk
-```
-
-```
 $ find . -type d | grep minesweeper
 //go to minesweeper dir
 $ python3 graphical_main.py 10 5 3
