@@ -67,6 +67,7 @@ You win !
 
 You have to install Tkinter if you want to play GUI version
 
+```
 $ find . -type d | grep minesweeper
 //go to minesweeper dir
 $ python3 graphical_main.py 10 5 3
